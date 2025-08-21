@@ -53,7 +53,7 @@ Retail sales analysis for Fathallah using Excel with Pivot Tables, KPIs, charts,
 
 ------------------------------------------------------------------------
 
-## 5️⃣ Visual Design (Power BI)
+## 5️⃣ Visual Design
 
 -   🃏 **KPI Cards** to display main indicators (Sales, Quantity, Avg
     Sales, etc.).\
